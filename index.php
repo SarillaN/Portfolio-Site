@@ -3,7 +3,7 @@
   require get_template_directory() . '/inc/section_vars.php';
 ?>
 <h1>The Front Page</h1>
-FUCK MY ASS JUSTIN
+dude what how much do I have to change for this shit to change
 <?php if (get_theme_mod($home_top_img)) { ?>
   <img 
     src="<?php echo get_theme_mod($home_top_img) ?>" 
